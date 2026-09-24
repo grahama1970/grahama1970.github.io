@@ -19,7 +19,7 @@ My path has been unusual: interactive production, data science, and now defense 
 
 ## SELECTED IMPACT
 - DARPA ARCOS / ACERT — technical lead for knowledge-graph and LLM-assisted certification of mission-critical software, briefing prime-contractor teams and program collaborators while remaining hands-on with architecture and code.
-- Tau and agent-skills — built receipt-gated agent orchestration plus 340+ reusable agent capabilities and 90+ bounded worker roles, with deterministic checks on roughly 85% of the public capability set.
+- Tau and agent-stack — built receipt-gated agent orchestration plus 340+ reusable agent capabilities and 90+ bounded worker roles, with deterministic checks on roughly 85% of the public capability set.
 - Regulated graph-memory and compliance systems — built private RAG/GraphRAG systems over NIST, CWE, MITRE ATT&CK, D3FEND, SPARTA, and requirements-to-proof corpora; public details stay bounded because much client work is export-controlled.
 
 ## EXPERIENCE
@@ -27,7 +27,7 @@ My path has been unusual: interactive production, data science, and now defense 
 ### Founder & Principal AI Engineer / Architect | grahamaco | Buffalo–Niagara Falls Area · Remote
 Feb 2025 - Present
 Independent AI engineering practice taking short, scoped engagements for aerospace primes, federally funded laboratories, and defense contractors. Agentic-pipeline work is active daily; client work is export-controlled (ITAR) and names are withheld; publicly releasable engineering is at github.com/grahama1970.
-- Built and maintained tau, agent-skills, scillm, extraction, evidence, and evaluation systems for agent work that must produce receipts, checks, and explicit limits instead of only plausible outputs.
+- Built and maintained tau, agent-stack, scillm, extraction, evidence, and evaluation systems for agent work that must produce receipts, checks, and explicit limits instead of only plausible outputs.
 - Develop a heavily diverged fork of pdf_oxide (origin: yfedoseev/pdf_oxide, MIT/Apache-2.0; independent since Mar 2026): 430 commits, ~137K lines added across Rust-core changes, Python pipeline/plugin work, layout/table extraction, PDF-cloning fixtures, extraction calibration, and NIST document-validation tooling.
 - Built private ArangoDB memory/compliance systems with hybrid BM25, vector, and graph recall over large evidence corpora; public claims are bounded to non-ITAR architecture, scale, and method.
 - Delivered scoped client engagements end to end under ITAR, including a React/TypeScript/D3 dataset explorer over a security-control knowledge graph — graph relationships, integrity and coverage checks, and quality gates feeding downstream ingest and evaluation.
@@ -57,7 +57,7 @@ Sep 2011 - Sep 2020
 
 ## PUBLIC WORK (non-ITAR) — github.com/grahama1970
 Client work is mostly export-controlled, so here is the public, verifiable side:
-- [agent-skills](https://github.com/grahama1970/agent-skills) — public working record: 340+ reusable agent skills, 90+ worker roles, ~85% with sanity gates. Public repo, private runtime.
+- [agent-stack-public](https://github.com/grahama1970/agent-stack-public) — public working record: 340+ reusable agent skills, 90+ worker roles, ~85% with sanity gates. Public repo, private runtime.
 - [tau](https://github.com/grahama1970/tau) — receipt-gated multi-agent harness. "Agents hallucinate. Tau contains them."
 - [pdf_oxide](https://github.com/grahama1970/pdf_oxide) — heavily diverged fork of yfedoseev's Rust PDF toolkit (430 commits, ~137K lines added: Rust-core changes, Python pipeline, PDF cloning, NIST validation).
 - scillm — LLM gateway/proxy and LLMOps layer: provider routing and fallback across hosted and local models, batch inference pools, structured outputs with repair, and streaming transport for agent runtimes. Runs on Docker/Linux.
