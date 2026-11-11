@@ -5,7 +5,7 @@ Buffalo, NY (EST)
 > I build agent systems that leave evidence of what they did.
 
 **Principal AI Engineer · AI Architect · Machine Learning Engineer**  
-Agentic AI · LLM/RAG · Knowledge Graphs · Defense & Aerospace · Founder, grahamaco
+Agentic AI · LLM/RAG · Frontier Model Training · Knowledge Graphs · Defense & Aerospace · Founder, grahamaco
 
 U.S. citizen. Extensive experience delivering under export-controlled (ITAR) constraints.
 
@@ -26,7 +26,8 @@ My path has been unusual: interactive production, data science, and now defense 
 
 ### Founder & Principal AI Engineer / Architect | grahamaco | Buffalo–Niagara Falls Area · Remote
 Feb 2025 - Present
-Independent AI engineering practice taking short, scoped engagements for aerospace primes, federally funded laboratories, and defense contractors. Agentic-pipeline work is active daily; client work is export-controlled (ITAR) and names are withheld; publicly releasable engineering is at github.com/grahama1970.
+Independent AI engineering practice taking short, scoped engagements: model training and evaluation for American frontier AI, alongside aerospace primes, federally funded laboratories, and defense contractors. Agentic-pipeline work is active daily; most client work is export-controlled (ITAR) and names are withheld; publicly releasable engineering is at github.com/grahama1970.
+- Model training and evaluation for American frontier AI; lab and model names withheld.
 - Built and maintained tau, agent-stack, scillm, extraction, evidence, and evaluation systems for agent work that must produce receipts, checks, and explicit limits instead of only plausible outputs.
 - Develop a heavily diverged fork of pdf_oxide (origin: yfedoseev/pdf_oxide, MIT/Apache-2.0; independent since Mar 2026): 430 commits, ~137K lines added across Rust-core changes, Python pipeline/plugin work, layout/table extraction, PDF-cloning fixtures, extraction calibration, and NIST document-validation tooling.
 - Built private ArangoDB memory/compliance systems with hybrid BM25, vector, and graph recall over large evidence corpora; public claims are bounded to non-ITAR architecture, scale, and method.

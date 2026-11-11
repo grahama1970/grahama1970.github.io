@@ -2,7 +2,7 @@
 
 > I build agent systems that leave evidence of what they did.
 
-Principal AI Engineer · AI Architect · Machine Learning Engineer Agentic AI · LLM/RAG · Knowledge Graphs · Defense & Aerospace · Founder, grahamaco
+Principal AI Engineer · AI Architect · Machine Learning Engineer Agentic AI · LLM/RAG · Frontier Model Training · Knowledge Graphs · Defense & Aerospace · Founder, grahamaco
 
 ## Agent entry points
 
@@ -59,5 +59,5 @@ Principal AI Engineer · AI Architect · Machine Learning Engineer Agentic AI ·
 - Current/export-controlled client and program details are withheld by
   necessity, not omission.
 - Every count on this site is generated from the repository at the deploy
-  commit (cc63535ed), not hand-maintained.
+  commit (58f77b4ea9), not hand-maintained.
 - Contact: graham@grahama.co
